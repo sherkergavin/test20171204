@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 * @ClassName: StubHumanResourceService 
 * @Description: stubHumanResourceService
 * @author GWJ
-* @date 2017年4月21日 下午12:02:30 
+* @date 2017年4月21日 下午12:02:30 123
 *
  */
 @Service
